@@ -1,0 +1,5 @@
+{
+  "name": "NeoMaze",
+  "description": "A 3D memory navigation game inspired by Piet Mondrian. Memorize the path, traverse the labyrinth, and survive the obstacles.",
+  "requestFramePermissions": []
+}
